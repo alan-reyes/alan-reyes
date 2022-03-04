@@ -24,7 +24,7 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <p>Java</p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010">
   <p>C#</p>
 </p>
 <h4>Frontend Development</h4>
