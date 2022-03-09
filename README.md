@@ -5,7 +5,7 @@
      { 
       "Linkedin" : "https://www.linkedin.com/in/-alan-reyes/", 
       "Portfolio": "https://alan-reyes.github.io/"
-      "Resume"   : "por actualizar",
+      "Resume"   : "https://alan-reyes.github.io/Alan_Reyes_Resume_CV_2022.pdf",
       "IG"       : "https://www.instagram.com/_alanreyesh/"
      }
  }
